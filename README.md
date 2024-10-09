@@ -1,0 +1,5 @@
+# Getting Started: GraphQL in .NET
+
+Facebook's revolutionary GraphQL was developed in 2012 and later open-sourced in 2015. Since then, it has become a staple in modern API development, alongside REST and gRPC. Many leading companies, including GitHub and Shopify, have adopted GraphQL as their preferred API approach. GraphQL addresses common challenges encountered with traditional REST APIs and offers an elegant approach to data retrieval and modification, as well as a unique subscription feature for data changes. In this comprehensive 7.5-hour course, Michael Staib, a member of the GraphQL steering committee and the mastermind behind the popular GraphQL library HotChocolate, will guide you from the fundamentals to proficiently building GraphQL .NET applications using C#. 
+
+[Detail](https://eduitfree.com/courses/getting-started-graphql-in-net)
